@@ -1,0 +1,482 @@
+[
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10038",
+        "id": "10038",
+        "key": "BTP",
+        "name": "Bug Tracking Project",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10422",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10422?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10422?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10422?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10438",
+        "id": "10438",
+        "key": "CS",
+        "name": "Corporate Services",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "3dca13b6-d0bd-416d-b50c-66a40ccae177",
+        "uuid": "3dca13b6-d0bd-416d-b50c-66a40ccae177"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10405",
+        "id": "10405",
+        "key": "CT",
+        "name": "cross-team",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10413",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10413?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10413?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10413?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10570",
+        "id": "10570",
+        "key": "CE",
+        "name": "Customer-experience",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+        },
+        "projectTypeKey": "customer_service",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10137",
+        "id": "10137",
+        "key": "DEM12",
+        "name": "demo1",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10104",
+        "id": "10104",
+        "key": "DE",
+        "name": "demo123",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "df82f356-a82c-485f-8733-27373751ea63",
+        "uuid": "df82f356-a82c-485f-8733-27373751ea63"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10269",
+        "id": "10269",
+        "key": "DM",
+        "name": "grocery-website",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10416?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "00958002-fc4a-42f6-9be0-d9712b864688",
+        "uuid": "00958002-fc4a-42f6-9be0-d9712b864688"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10504",
+        "id": "10504",
+        "key": "GA",
+        "name": "Grocery_App",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "43584c2b-eb31-40bf-8280-4568cc8502f0",
+        "uuid": "43584c2b-eb31-40bf-8280-4568cc8502f0"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10537",
+        "id": "10537",
+        "key": "GROC",
+        "name": "Groceryapp",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10415",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10415?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10415?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10415?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "0f6db5ba-7c48-4d67-b799-f2c3a36c8015",
+        "uuid": "0f6db5ba-7c48-4d67-b799-f2c3a36c8015"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10335",
+        "id": "10335",
+        "key": "HR",
+        "name": "HR",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "3fe5d063-e1e4-4bff-9396-04d10f54c163",
+        "uuid": "3fe5d063-e1e4-4bff-9396-04d10f54c163"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10336",
+        "id": "10336",
+        "key": "HT",
+        "name": "HR_team",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "e1146397-0655-4a8a-84ef-8ee689bd2ee7",
+        "uuid": "e1146397-0655-4a8a-84ef-8ee689bd2ee7"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10203",
+        "id": "10203",
+        "key": "HELP",
+        "name": "IT Help Desk",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10410?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "71afad8a-f921-49d3-b5b9-c23be3b2dced",
+        "uuid": "71afad8a-f921-49d3-b5b9-c23be3b2dced"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10005",
+        "id": "10005",
+        "key": "KAN",
+        "name": "Kanban",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10424?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10002",
+        "id": "10002",
+        "key": "MKP1",
+        "name": "My Kanban Project-1",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10417?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "f4189234-a364-4950-a3a4-1f839346f0aa",
+        "uuid": "f4189234-a364-4950-a3a4-1f839346f0aa"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10003",
+        "id": "10003",
+        "key": "MKP2",
+        "name": "My Kanban Project-2",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10000",
+        "id": "10000",
+        "key": "MSP1",
+        "name": "My Scrum Project-1",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10418?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "625793da-8c54-4915-989a-30f7210085e4",
+        "uuid": "625793da-8c54-4915-989a-30f7210085e4"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10001",
+        "id": "10001",
+        "key": "MSP",
+        "name": "My Scrum Project-2",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10407?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10170",
+        "id": "10170",
+        "key": "NS",
+        "name": "new space",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "29135a1b-23d0-481b-bf69-dacd10533b0b",
+        "uuid": "29135a1b-23d0-481b-bf69-dacd10533b0b"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10371",
+        "id": "10371",
+        "key": "PEOP",
+        "name": "peoplestrong",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10414?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "c89938b6-ce42-4f5f-82ac-d584f4bc6074",
+        "uuid": "c89938b6-ce42-4f5f-82ac-d584f4bc6074"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10337",
+        "id": "10337",
+        "key": "SAL",
+        "name": "sales",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "77b3b7e6-1ace-4064-9479-5cdb0a5236f0",
+        "uuid": "77b3b7e6-1ace-4064-9479-5cdb0a5236f0"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10338",
+        "id": "10338",
+        "key": "ST",
+        "name": "sales_team",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10408?size=medium"
+        },
+        "projectTypeKey": "service_desk",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "f9631768-6f4b-421d-9631-f766cacc8bd9",
+        "uuid": "f9631768-6f4b-421d-9631-f766cacc8bd9"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10004",
+        "id": "10004",
+        "key": "SC",
+        "name": "Scrum",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10402",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10402?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10402?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10402?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10071",
+        "id": "10071",
+        "key": "COM",
+        "name": "Scrum-company",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10419?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10404",
+        "id": "10404",
+        "key": "TL",
+        "name": "top-level",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10403?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/project/10471",
+        "id": "10471",
+        "key": "TR",
+        "name": "training req",
+        "avatarUrls": {
+            "48x48": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411",
+            "24x24": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411?size=small",
+            "16x16": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411?size=xsmall",
+            "32x32": "https://padahsolutions-team-abc.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10411?size=medium"
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "7eed82b5-db62-42e8-a3ad-f30fbaab3bfa",
+        "uuid": "7eed82b5-db62-42e8-a3ad-f30fbaab3bfa"
+    }
+]
