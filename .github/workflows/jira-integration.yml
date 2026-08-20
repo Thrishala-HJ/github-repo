@@ -1,0 +1,29 @@
+name: Jira Build Integration
+ 
+on:
+  push:
+    branches: [main]
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+ 
+      # Your build steps here
+      - name: Build project
+        run: echo "Building..."
+ 
+      # Send build info to Jira
+      - name: Login to Atlassian
+        uses: atlassian/gajira-login@v3
+        env:
+          JIRA_CLIENT_ID: ${{ secrets.JIRA_CLIENT_ID }}
+          JIRA_CLIENT_SECRET: ${{ secrets.JIRA_CLIENT_SECRET }}
+ 
+      - name: Send Build Info to Jira
+        uses: atlassian/gajira-build@v3
+        with:
+          pipeline-id: my-pipeline
+          build-number: ${{ github.run_number }}
+          build-state: successful
